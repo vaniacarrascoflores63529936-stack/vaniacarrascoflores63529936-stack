@@ -1,16 +1,52 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Vania Carrasco Flores
 
-<!--
-**vaniacarrascoflores63529936-stack/vaniacarrascoflores63529936-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrolladora de Software**
 
-Here are some ideas to get you started:
+Me interesa el desarrollo de aplicaciones web y sistemas orientados a resolver problemas reales. Me gusta trabajar tanto en el **backend como en el frontend**, y actualmente sigo fortaleciendo mis conocimientos en desarrollo, bases de datos y despliegue de aplicaciones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+
+**Lenguajes y desarrollo**
+
+* Python
+* JavaScript
+* HTML
+* CSS
+
+**Frameworks y herramientas**
+
+* Flask
+* Django
+* Git & GitHub
+* Linux
+
+**Bases de datos**
+
+* PostgreSQL
+* Supabase
+
+## 🚀 Proyectos destacados
+
+### 🔧 Furia Motors
+
+Sistema web de gestión para talleres mecánicos, con funcionalidades para clientes, vehículos, órdenes de trabajo, reservas, historial y gestión de archivos multimedia.
+
+**Tecnologías:** Python · Flask · JavaScript · PostgreSQL · Supabase
+
+### 📚 BibliotecaInfo
+
+Sistema web desarrollado para facilitar el acceso y consulta de recursos de una biblioteca especializada.
+
+**Tecnologías:** HTML · CSS · JavaScript
+
+## 🎯 Actualmente
+
+* 🚀 Desarrollando y mejorando proyectos web.
+* 🐍 Fortaleciendo mis conocimientos en Python y desarrollo backend.
+* 🌐 Aprendiendo más sobre despliegue y administración de aplicaciones.
+* 📚 Creando proyectos para seguir construyendo mi portafolio profesional.
+
+## 📫 Contacto
+
+Si quieres conocer más sobre mis proyectos, puedes explorar mis repositorios aquí en GitHub.
+
